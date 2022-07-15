@@ -1,5 +1,5 @@
-# ig-prem
-Secript untuk krek ig emaklo bapak lo keluarga lo 
+# install bahan bahan
+Secript untuk krek ig emaklo bapak lo keluarga lo             
 $ pkg update && pkg upgrade                   
 
 $ pkg install python                      
