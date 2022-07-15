@@ -28,7 +28,7 @@ $ git pull
 
 $ cd ig-prem            
 
-$ python run.py            
+$ python igev2py            
 
 # suport kartu AXIS 
 
